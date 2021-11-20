@@ -9,5 +9,6 @@
 - 테스트
 - 성능 최적화
 ## take notes
+- <b><a href="https://github.com/RyuKyeongWoo/TIL#spring-bootjpa-programming">Java ORM Standard JPA Programming</a></br>
 - <b><a href="https://github.com/RyuKyeongWoo/TIL#spring-bootspring-mvc--jpa">Web application development</a></br>
 - <b><a href="https://github.com/RyuKyeongWoo/TIL#spring-bootrest-api--jpa">API development and performance optimization</a></b>
